@@ -1,4 +1,6 @@
 # vim-code-dark
+This is a crappy fork of a good plugin, made solely to fix the colours for spell check and search.
+
 `vim-code-dark` is a dark **color scheme for [Vim](http://www.vim.org/)** heavily inspired by the look of the Dark+ scheme of [Visual Studio Code](https://code.visualstudio.com/). While many of the colors are same, there are additional colors for specific usage or reserved for future use. The scheme also defines specific GUI colors (e.g. popup menu) and fully supports [`vim-airline`](https://github.com/vim-airline/vim-airline).
 
 **:exclamation: To install and enable this colorscheme, [read installation instructions](#installation).**
